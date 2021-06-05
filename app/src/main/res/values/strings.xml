@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">股價查詢鬧鐘</string>
+    <string name="stock_no">2330</string>
+    <string name="stock_hint">請輸入股票代號</string>
+    <string name="setup_alarm">設定鬧鐘</string>
+    <string name="remove_alarm">移除鬧鐘</string>
+</resources>
